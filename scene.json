@@ -11,56 +11,56 @@
       "glyph": "plate",
       "label": "Resonators",
       "role": "structure",
-      "x": 0.22,
-      "y": 0.24
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "coil",
       "label": "Heater",
       "role": "energy",
-      "x": 0.5,
-      "y": 0.24
+      "x": 0.38,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "film",
       "label": "Amorphous GST",
       "role": "path",
-      "x": 0.78,
-      "y": 0.24
+      "x": 0.62,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "plate",
       "label": "Annealing",
       "role": "structure",
-      "x": 0.22,
-      "y": 0.52
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n5",
       "glyph": "can",
       "label": "Separate melt-quench reset",
       "role": "path",
-      "x": 0.5,
-      "y": 0.52
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "telemetry",
       "label": "Complex-index response",
       "role": "path",
-      "x": 0.78,
-      "y": 0.52
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "optic",
       "label": "Two designed optical settings",
       "role": "path",
-      "x": 0.22,
-      "y": 0.8
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [

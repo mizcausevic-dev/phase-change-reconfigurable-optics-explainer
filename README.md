@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/phase-change-reconfigurable-optics-explainer/
 
+Repository: https://github.com/mizcausevic-dev/phase-change-reconfigurable-optics-explainer
+
 ## What this is
 
 An interactive anatomy plate for Phase-Change Reconfigurable Optics. Play, scrub, or jump the five stages. The same frame always draws the same picture.
